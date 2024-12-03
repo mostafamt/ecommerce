@@ -1,6 +1,6 @@
 {
-  "name": "testapp",
+  "name": "ecom-backend",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/ecomm-backend/src",
+  "sourceRoot": "apps/ecom-backend/src",
   "tags": []
 }
